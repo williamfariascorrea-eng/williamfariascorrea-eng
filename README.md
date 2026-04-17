@@ -21,5 +21,5 @@
 ---
 
 ## 📫 Contato
-- LinkedIn: (colocar depois)
-- Email: (opcional)
+- Instagram: (https://www.instagram.com/williamsigma_/)
+- Email: williamfariascorrea@gmail.com
