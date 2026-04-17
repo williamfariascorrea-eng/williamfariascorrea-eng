@@ -21,5 +21,5 @@
 ---
 
 ## 📫 Contato
-- Instagram: (https://www.instagram.com/williamsigma_/)
+- Instagram: https://www.instagram.com/williamsigma_
 - Email: williamfariascorrea@gmail.com
