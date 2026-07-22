@@ -1,45 +1,58 @@
-# Olá, sou William Corrêa
+<h1 align="center">William Correa</h1>
+<h3 align="center">Desenvolvedor Front-End</h3>
 
-**Desenvolvedor Front-End** focado em criar interfaces modernas, responsivas e com experiência do usuário no centro.
+<p align="center">
+  <a href="https://buildbywilliam.onrender.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://linkedin.com/in/william-f-correa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/williamfariascorrea-eng" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://wa.me/5553991123550" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/william-f-correa)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/williamfariascorrea-eng)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://buildbywilliam.onrender.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5553991123550)
-
----
-
-## Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Ferramentas:** Vite, Zustand, Framer Motion, Supabase, Git, Figma, Radix UI, Recharts
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=williamfariascorrea-eng&color=6366f1&style=flat&label=visitas" alt="visitas">
+</p>
 
 ---
 
-## Projetos
+### Sobre mim
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Fitmais+](https://github.com/williamfariascorrea-eng/Fitmais) | Site institucional para academia | React, TypeScript, Tailwind |
-| [Finance Dashboard](https://github.com/williamfariascorrea-eng/finance-dashboard) | Dashboard financeiro corporativo | React, TypeScript, Zustand |
-| [FitFlow CRM](https://github.com/williamfariascorrea-eng/fitflow-crm) | CRM para academias | Next.js, Supabase, Radix UI |
-| [TeamBanks](https://github.com/williamfariascorrea-eng/TeamBanks) | Landing page institucional bancária | HTML, CSS, JavaScript |
-| [Cabal Requiem](https://github.com/williamfariascorrea-eng/CabalRequiem) | Site informativo sobre servidor de jogo | HTML, CSS, JavaScript |
-| [Cabal Horizon Wiki](https://github.com/williamfariascorrea-eng/Wiki-Cabal-Horizon) | Wiki para comunidade de jogadores | HTML, CSS, JavaScript |
-| [Paulinho Pereira](https://github.com/williamfariascorrea-eng/PaulinhoPereira) | Landing page para profissional liberal | HTML, CSS |
+Desenvolvedor Front-End com experiencia em React, TypeScript e Next.js. Crio interfaces modernas, responsivas e com experiencia do usuario no centro. Tenho projetos reais como dashboard financeiro, landing pages e ferramentas web.
 
 ---
 
-## Contato
+### Habilidades
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,typescript,nextjs,tailwind,js,html,css,vite,git,figma,supabase,redux,nodejs" />
+</p>
+
+---
+
+### Projetos em destaque
+
+<p align="center">
+  <a href="https://github.com/williamfariascorrea-eng/Fitmais"><img src="https://github-readme-stats.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=Fitmais&theme=dark&bg_color=0a0a1a&border_color=1f1f3a&text_color=c0c0d0&icon_color=6366f1&title_color=6366f1" /></a>
+  <a href="https://github.com/williamfariascorrea-eng/finance-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=finance-dashboard&theme=dark&bg_color=0a0a1a&border_color=1f1f3a&text_color=c0c0d0&icon_color=6366f1&title_color=6366f1" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/williamfariascorrea-eng/CalculadoraIMC"><img src="https://github-readme-stats.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=CalculadoraIMC&theme=dark&bg_color=0a0a1a&border_color=1f1f3a&text_color=c0c0d0&icon_color=6366f1&title_color=6366f1" /></a>
+  <a href="https://github.com/williamfariascorrea-eng/PomodoroTimer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=PomodoroTimer&theme=dark&bg_color=0a0a1a&border_color=1f1f3a&text_color=c0c0d0&icon_color=6366f1&title_color=6366f1" /></a>
+</p>
+
+---
+
+### Estatisticas
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=williamfariascorrea-eng&show_icons=true&theme=dark&bg_color=0a0a1a&border_color=1f1f3a&text_color=c0c0d0&icon_color=6366f1&title_color=6366f1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfariascorrea-eng&layout=compact&theme=dark&bg_color=0a0a1a&border_color=1f1f3a&text_color=c0c0d0&icon_color=6366f1&title_color=6366f1" />
+</p>
+
+---
+
+### Contato
+
+- **Portfolio:** [buildbywilliam.onrender.com](https://buildbywilliam.onrender.com)
 - **LinkedIn:** [william-f-correa](https://linkedin.com/in/william-f-correa)
 - **WhatsApp:** [(53) 99112-3550](https://wa.me/5553991123550)
 - **Email:** williamfariascorrea@gmail.com
-- **Portfolio:** [buildbywilliam.onrender.com](https://buildbywilliam.onrender.com)
