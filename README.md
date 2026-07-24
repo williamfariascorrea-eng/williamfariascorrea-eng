@@ -51,6 +51,9 @@ Desenvolvedor front-end do sul do Brasil. Trabalho com React, TypeScript e Tailw
 
 ---
 
+<!-- STATS_START -->
+<!-- STATS_END -->
+
 ### Contato
 
 - **Portfolio:** [williamdev-hub.vercel.app](https://williamdev-hub.vercel.app)

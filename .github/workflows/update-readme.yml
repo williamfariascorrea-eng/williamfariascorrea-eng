@@ -1,0 +1,65 @@
+name: Atualizar Stats do Perfil
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/github-script@v7
+        id: fetch-stats
+        with:
+          script: |
+            const { data: repos } = await github.rest.repos.listForUser({
+              username: 'williamfariascorrea-eng',
+              per_page: 100,
+              sort: 'updated',
+              direction: 'desc'
+            });
+
+            const active = repos.filter(r => !r.fork && !r.archived);
+            const totalStars = active.reduce((acc, r) => acc + (r.stargazers_count || 0), 0);
+            const totalForks = active.reduce((acc, r) => acc + (r.forks_count || 0), 0);
+            const now = new Date().toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo' });
+
+            const latest = active.slice(0, 3).map(r =>
+              `  - [${r.name}](${r.html_url}) — ${r.description || 'sem descricao'}`
+            ).join('\n');
+
+            core.exportVariable('STATS_STARS', totalStars.toString());
+            core.exportVariable('STATS_FORKS', totalForks.toString());
+            core.exportVariable('STATS_REPOS', active.length.toString());
+            core.exportVariable('STATS_UPDATED', now);
+            core.exportVariable('STATS_LATEST', latest);
+
+      - name: Update README
+        shell: bash
+        run: |
+          NEW_SECTION="<!-- STATS_START -->
+          ### 📊 Status do perfil
+
+          ⭐ **${{ env.STATS_STARS }}** estrelas ao todo
+          🍴 **${{ env.STATS_FORKS }}** forks ao todo
+          📦 **${{ env.STATS_REPOS }}** repositorios ativos
+          🕐 Atualizado em: ${{ env.STATS_UPDATED }}
+
+          **Projetos recentes:**
+          ${{ env.STATS_LATEST }}
+          <!-- STATS_END -->"
+
+          perl -0777 -pe "s|<!-- STATS_START -->.*?<!-- STATS_END -->|${NEW_SECTION//$'\n'/\\n}|gs" README.md > README.tmp
+          mv README.tmp README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "williamfariascorrea-eng"
+          git config user.email "williamfariascorrea@gmail.com"
+          git diff --quiet && echo "sem mudancas" || (git add README.md && git commit -m "chore: atualiza stats do perfil [automacao]" && git push)
