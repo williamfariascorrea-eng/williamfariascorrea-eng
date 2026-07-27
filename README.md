@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/william-f-correa" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/williamfariascorrea-eng" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://wa.me/5553991123550" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href="https://linktree-william.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LinkTree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"></a>
+  <a href="https://link-tree-william.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LinkTree-43E55E?style=for-the-badge&logo=linktree&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -32,12 +32,12 @@ Desenvolvedor front-end do sul do Brasil. Trabalho com React, TypeScript e Tailw
 ### Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/williamfariascorrea-eng/williamdev-hub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=williamdev-hub&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" /></a>
-  <a href="https://github.com/williamfariascorrea-eng/MemoryMatch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=MemoryMatch&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" /></a>
+  <a href="https://github.com/williamfariascorrea-eng/williamdev-hub"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=williamdev-hub&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" /></a>
+  <a href="https://github.com/williamfariascorrea-eng/MemoryMatch"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=MemoryMatch&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/williamfariascorrea-eng/Fitmais"><img src="https://github-readme-stats.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=Fitmais&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" /></a>
-  <a href="https://github.com/williamfariascorrea-eng/PaulinhoPereira"><img src="https://github-readme-stats.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=PaulinhoPereira&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" /></a>
+  <a href="https://github.com/williamfariascorrea-eng/Fitmais"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=Fitmais&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" /></a>
+  <a href="https://github.com/williamfariascorrea-eng/PaulinhoPereira"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=PaulinhoPereira&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" /></a>
 </p>
 
 ---
@@ -45,8 +45,8 @@ Desenvolvedor front-end do sul do Brasil. Trabalho com React, TypeScript e Tailw
 ### Estatisticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williamfariascorrea-eng&show_icons=true&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamfariascorrea-eng&layout=compact&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=williamfariascorrea-eng&show_icons=true&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=williamfariascorrea-eng&layout=compact&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" />
 </p>
 
 ---
