@@ -32,7 +32,7 @@ Desenvolvedor front-end do sul do Brasil. Trabalho com React, TypeScript e Tailw
 ### Projetos em destaque
 
 <p align="center">
-  <a href="https://github.com/williamfariascorrea-eng/williamdev-hub"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=williamdev-hub&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" /></a>
+  <a href="https://github.com/williamfariascorrea-eng/CalculadoraIMC"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=CalculadoraIMC&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" /></a>
   <a href="https://github.com/williamfariascorrea-eng/MemoryMatch"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=williamfariascorrea-eng&repo=MemoryMatch&theme=dark&bg_color=0a0807&border_color=2a2420&text_color=d9d0c4&icon_color=d97706&title_color=d97706" /></a>
 </p>
 <p align="center">
