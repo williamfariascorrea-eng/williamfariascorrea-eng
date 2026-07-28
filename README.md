@@ -56,13 +56,13 @@ Desenvolvedor front-end do sul do Brasil. Trabalho com React, TypeScript e Tailw
 
 ⭐ **0** estrelas ao todo
 🍴 **0** forks ao todo
-📦 **11** repositorios ativos
-🕐 Atualizado em: 27/07/2026, 11:03:00
+📦 **12** repositorios ativos
+🕐 Atualizado em: 28/07/2026, 10:22:55
 
 **Projetos recentes:**
-  - [williamfariascorrea-eng](https://github.com/williamfariascorrea-eng/williamfariascorrea-eng) — sem descricao
-  - [PaulinhoPereira](https://github.com/williamfariascorrea-eng/PaulinhoPereira) — Landing page personalizada para Paulinho Pereira com design moderno e foco em conversao
+  - [project-pulse](https://github.com/williamfariascorrea-eng/project-pulse) — Monitor de saude dos projetos de William Correa
   - [LinkTreeWilliam](https://github.com/williamfariascorrea-eng/LinkTreeWilliam) — Pagina de links estilo Linktree para William Correa - Desenvolvedor Front-End
+  - [TeamBanks](https://github.com/williamfariascorrea-eng/TeamBanks) — Landing page institucional para plataforma bancaria com design moderno e responsivo
 <!-- STATS_END -->
 
 ### Contato
