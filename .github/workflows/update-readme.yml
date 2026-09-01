@@ -1,4 +1,4 @@
-name: Atualizar Stats do Perfil
+name: Update Profile Stats
 
 on:
   schedule:
@@ -25,13 +25,13 @@ jobs:
               direction: 'desc'
             });
 
-            const active = repos.filter(r => !r.fork && !r.archived);
+            const active = repos.filter(r => !r.fork && !r.archived && r.name !== 'williamfariascorrea-eng');
             const totalStars = active.reduce((acc, r) => acc + (r.stargazers_count || 0), 0);
             const totalForks = active.reduce((acc, r) => acc + (r.forks_count || 0), 0);
-            const now = new Date().toLocaleString('pt-BR', { timeZone: 'America/Sao_Paulo' });
+            const now = new Date().toLocaleString('en-US', { timeZone: 'America/Sao_Paulo' });
 
             const latest = active.slice(0, 3).map(r =>
-              `  - [${r.name}](${r.html_url}) — ${r.description || 'sem descricao'}`
+              `  - [${r.name}](${r.html_url}) — ${r.description || 'no description'}`
             ).join('\n');
 
             core.exportVariable('STATS_STARS', totalStars.toString());
@@ -44,14 +44,14 @@ jobs:
         shell: bash
         run: |
           NEW_SECTION="<!-- STATS_START -->
-          ### 📊 Status do perfil
+          ### 📊 Profile status
 
-          ⭐ **${{ env.STATS_STARS }}** estrelas ao todo
-          🍴 **${{ env.STATS_FORKS }}** forks ao todo
-          📦 **${{ env.STATS_REPOS }}** repositorios ativos
-          🕐 Atualizado em: ${{ env.STATS_UPDATED }}
+          ⭐ **${{ env.STATS_STARS }}** total stars
+          🍴 **${{ env.STATS_FORKS }}** total forks
+          📦 **${{ env.STATS_REPOS }}** active repositories
+          🕐 Last updated: ${{ env.STATS_UPDATED }}
 
-          **Projetos recentes:**
+          **Recent projects:**
           ${{ env.STATS_LATEST }}
           <!-- STATS_END -->"
 
@@ -62,4 +62,4 @@ jobs:
         run: |
           git config user.name "williamfariascorrea-eng"
           git config user.email "williamfariascorrea@gmail.com"
-          git diff --quiet && echo "sem mudancas" || (git add README.md && git commit -m "chore: atualiza stats do perfil [automacao]" && git push)
+          git diff --quiet && echo "no changes" || (git add README.md && git commit -m "chore: update profile stats [automation]" && git push)
