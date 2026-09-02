@@ -57,12 +57,12 @@ Front-end developer from southern Brazil. I build interfaces with **React, TypeS
 ⭐ **0** total stars
 🍴 **0** total forks
 📦 **12** active repositories
-🕐 Last updated: 01/09/2026, 12:36:04
+🕐 Last updated: 9/2/2026, 12:22:58 PM
 
 **Recent projects:**
   - [project-pulse](https://github.com/williamfariascorrea-eng/project-pulse) — Monitor de saude dos projetos de William Correa
-  - [williamfariascorrea-eng](https://github.com/williamfariascorrea-eng/williamfariascorrea-eng) — sem descricao
-  - [LinkTreeWilliam](https://github.com/williamfariascorrea-eng/LinkTreeWilliam) — Pagina de links estilo Linktree para William Correa - Desenvolvedor Front-End
+  - [finance-dashboard](https://github.com/williamfariascorrea-eng/finance-dashboard) — Dashboard financeiro corporativo com React, TypeScript e Zustand. Fluxo de caixa, planejamento financeiro e exportacao de dados.
+  - [BYTE](https://github.com/williamfariascorrea-eng/BYTE) — BYTE. — retro-tech studio landing page (HTML/CSS/JS)
 <!-- STATS_END -->
 
 ### Contact
