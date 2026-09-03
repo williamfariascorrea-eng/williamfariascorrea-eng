@@ -57,12 +57,12 @@ Front-end developer from southern Brazil. I build interfaces with **React, TypeS
 ⭐ **0** total stars
 🍴 **0** total forks
 📦 **12** active repositories
-🕐 Last updated: 9/2/2026, 12:22:58 PM
+🕐 Last updated: 9/3/2026, 12:16:10 PM
 
 **Recent projects:**
   - [project-pulse](https://github.com/williamfariascorrea-eng/project-pulse) — Monitor de saude dos projetos de William Correa
-  - [finance-dashboard](https://github.com/williamfariascorrea-eng/finance-dashboard) — Dashboard financeiro corporativo com React, TypeScript e Zustand. Fluxo de caixa, planejamento financeiro e exportacao de dados.
-  - [BYTE](https://github.com/williamfariascorrea-eng/BYTE) — BYTE. — retro-tech studio landing page (HTML/CSS/JS)
+  - [PomodoroTimer](https://github.com/williamfariascorrea-eng/PomodoroTimer) — Timer Pomodoro para estudos com progresso visual, modos personalizaveis e contador de sessoes
+  - [CalculadoraIMC](https://github.com/williamfariascorrea-eng/CalculadoraIMC) — Calculadora de Indice de Massa Corporal com interface limpa, suporte metrico/imperial e dicas de saude
 <!-- STATS_END -->
 
 ### Contact
