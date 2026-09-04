@@ -56,13 +56,13 @@ Front-end developer from southern Brazil. I build interfaces with **React, TypeS
 
 ⭐ **0** total stars
 🍴 **0** total forks
-📦 **12** active repositories
-🕐 Last updated: 9/3/2026, 12:16:10 PM
+📦 **13** active repositories
+🕐 Last updated: 9/4/2026, 12:11:08 PM
 
 **Recent projects:**
   - [project-pulse](https://github.com/williamfariascorrea-eng/project-pulse) — Monitor de saude dos projetos de William Correa
+  - [clima-agora](https://github.com/williamfariascorrea-eng/clima-agora) — App do tempo com previsão para 7 dias. React + TypeScript + Tailwind + Open-Meteo API
   - [PomodoroTimer](https://github.com/williamfariascorrea-eng/PomodoroTimer) — Timer Pomodoro para estudos com progresso visual, modos personalizaveis e contador de sessoes
-  - [CalculadoraIMC](https://github.com/williamfariascorrea-eng/CalculadoraIMC) — Calculadora de Indice de Massa Corporal com interface limpa, suporte metrico/imperial e dicas de saude
 <!-- STATS_END -->
 
 ### Contact
